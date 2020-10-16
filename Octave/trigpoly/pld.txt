@@ -1,0 +1,23 @@
+algPoly.p[0] = new Complex(0.04455, -0.07194);
+algPoly.p[1] = new Complex(-0.05742, 0.08978);
+algPoly.p[2] = new Complex(0.17168, -0.28283);
+algPoly.p[3] = new Complex(-0.12969, 0.08158);
+algPoly.p[4] = new Complex(-0.33418, 0.26873);
+algPoly.p[5] = new Complex(0.14186, 0.00000);
+algPoly.p[6] = new Complex(-0.33418, -0.26873);
+algPoly.p[7] = new Complex(-0.12969, -0.08158);
+algPoly.p[8] = new Complex(0.17168, 0.28283);
+algPoly.p[9] = new Complex(-0.05742, -0.08978);
+algPoly.p[10] = new Complex(0.04455, 0.07194);
+
+   [0.04455 - 0.07194i,
+  -0.05742 + 0.08978i,
+   0.17168 - 0.28283i,
+  -0.12969 + 0.08158i,
+  -0.33418 + 0.26873i,
+   0.14186 + 0.00000i,
+  -0.33418 - 0.26873i,
+  -0.12969 - 0.08158i,
+   0.17168 + 0.28283i,
+  -0.05742 - 0.08978i,
+   0.04455 + 0.07194i]

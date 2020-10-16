@@ -1,0 +1,11 @@
+# Blender v2.79 (sub 0) OBJ File: ''
+# www.blender.org
+mtllib triangle.mtl
+o Icosphere
+v 0.834651 -0.713382 0.909045
+v -0.620916 -0.713382 -1.094381
+v -0.218616 1.393148 0.143805
+vn 0.7947 0.1876 -0.5773
+usemtl None
+s off
+f 1//1 2//1 3//1
